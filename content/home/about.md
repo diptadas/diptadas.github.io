@@ -10,9 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "Cloud Computing",
+    "Machine Learning",
     "Artificial Intelligence",
-    "Cryptography",
-    "Human Computer Interaction"
+    "Cryptography"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -23,8 +24,10 @@ weight = 5
  
 +++
 
-# Biography
+<p style='text-align: justify;'>
+Completed B.Sc. in Computer Science and Engineering from Chittagong University of Engineering and Technology. Currently, working as a Software Engineer at AppsCode Inc. focusing on cloud technologies and container orchestration techniques.
+<p>
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+<p style='text-align: justify;'>
+Open-source enthusiast and actively contributing to several <a href="https://kubernetes.io/">Kubernetes</a> based popular open-source projects. Loves competitive programming - ranked as Divisional Champion of ACM ICPC Dhaka Regional 2014 and 2015.
+</p>
