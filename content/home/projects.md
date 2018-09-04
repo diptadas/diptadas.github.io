@@ -8,7 +8,7 @@ title = "Projects"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 30
 
 # Content.
 # Display content from the following folder.
@@ -42,3 +42,22 @@ filter_default = 0
 
 +++
 
+* [Voyager](https://github.com/appscode/voyager)
+  - Secure HAProxy Ingress Controller for Kubernetes
+  - Developed and maintained under AppsCode Inc.
+
+* [Stash](https://github.com/appscode/stash)
+  - Backup tool for Kubernetes Volumes
+  - Developed and maintained under AppsCode Inc.
+
+* [KubeCI](https://github.com/kube-ci/kubeci)
+  - Kubernetes Native Workflow Engine
+  - Developed and maintained under AppsCode Inc.
+
+* [Automatic Email Verification](https://github.com/diptadas/java-projects/tree/master/verify-email)
+  - Verify existence of an email without sending any spam mail
+  - Developed as an internship project at AppsCode Inc.
+
+* [Attendance System](https://github.com/diptadas/attendance-system)
+  - Android app to collect and manage student attendance
+  - Developed as a software engineering course assignment
