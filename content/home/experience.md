@@ -1,22 +1,44 @@
 +++
-# Custom widget.
-# An example of using the custom widget to create your own homepage section.
-# To create more sections, duplicate this file and edit the values below as desired.
-widget = "custom"
-active = true
-date = 2016-04-20T00:00:00
+# Experience widget.
+widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 40  # Order that this section will appear.
 
-# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Experience"
 subtitle = ""
 
-# Order that this section will appear in.
-weight = 10
+# Date format for experience
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "Jan 2006"
+
+# Experiences.
+#   Add/remove as many `[[experience]]` blocks below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[experience]]
+  title = "Software Engineer"
+  company = "AppsCode Inc."
+  company_url = "https://appscode.com"
+  location = "Uttara, Dhaka, Bangladesh"
+  date_start = "2017-04-12"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Research, Develop and Deploy open-source tools for [Kubernetes](https://kubernetes.io/) clusters.
+  * Projects: [Voyager](https://github.com/appscode/voyager), [Stash](https://github.com/appscode/stash), [KubeCI](https://github.com/kube-ci/kubeci) 
+  * Deploying
+  """
+
+[[experience]]
+  title = "Intern"
+  company = "AppsCode Inc."
+  company_url = "https://appscode.com"
+  location = "Uttara, Dhaka, Bangladesh"
+  date_start = "2016-01-01"
+  date_end = "2016-01-31"
+  description = """Learned Git."""
 
 +++
-
-## [AppsCode Inc.](https://appscode.com)
-
-- Software Engineer -  April 2017 to Present
-- Research, Develop and Deploy open-source tools for [Kubernetes](https://kubernetes.io/) clusters.
-- Projects: [Voyager](https://github.com/appscode/voyager), [Stash](https://github.com/appscode/stash), [KubeCI](https://github.com/kube-ci/kubeci) 
