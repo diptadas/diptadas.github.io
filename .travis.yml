@@ -13,7 +13,7 @@ after_success: |
     git checkout --orphan master
     git rm -rf .
     mv public/* .
-    rm -rf public resources hugo_*
+    rm -rf public resources
     echo "diptadas.com" > CNAME
     git add -f --ignore-errors --all
     git -c user.name='travis' -c user.email='travis' commit -m 'Auto Generated'
