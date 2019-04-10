@@ -56,7 +56,7 @@ user_groups = ["Researchers", "Visitors"]
 
 [[social]]
   icon = "facebook"
-  icon_pack = "fa"
+  icon_pack = "fab"
   link = "//facebook.com/dipta.das"
 
 [[social]]
