@@ -8,8 +8,8 @@
     <script src="https://cdn.jsdelivr.net/scrollreveal.js/3.3.1/scrollreveal.min.js"></script>
 
     <div class="container text-center">
-      <h1>Timeline</h1>
-      <p>Descending</p>
+      <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
+      <p>{{ with $page.Params.subtitle }}{{ . | markdownify }}{{ end }}</p>
     </div>
 </header>
 
