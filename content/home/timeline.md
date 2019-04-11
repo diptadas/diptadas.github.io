@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 45  # Order that this section will appear.
 
 title = "Timeline"
-subtitle = ""
+subtitle = "My Stories"
 
 # Date format for timeline
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
