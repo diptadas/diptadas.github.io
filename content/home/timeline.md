@@ -18,7 +18,7 @@ date_format = "January 02, 2006"
   title = "Start AppsCode"
   date = "2017-04-12"
   event_url = "https://appscode.com"
-  image = ""
+  image = "/images/download.jpeg"
   description = "Joined AppsCode"
 
 [[timeline]]
