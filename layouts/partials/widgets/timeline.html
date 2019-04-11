@@ -1,0 +1,40 @@
+{{ $ := .root }}
+{{ $page := .page }}
+
+<!-- Timeline widget -->
+
+
+<header>
+    <script src="https://cdn.jsdelivr.net/scrollreveal.js/3.3.1/scrollreveal.min.js"></script>
+
+    <div class="container text-center">
+      <h1>Timeline</h1>
+      <p>Descending</p>
+    </div>
+</header>
+
+  <section class="timeline">
+    <div class="container">
+
+    {{ if $page.Params.timeline }}
+    {{ $exp_len := len $page.Params.timeline }}
+    {{ range $idx, $key := sort $page.Params.timeline ".date" "desc" }}
+
+    <div class="timeline-item">
+      <div class="timeline-img"></div>
+      <div class="timeline-content timeline-card js--fadeIn{{ if modBool $idx 2 }}Left{{ else }}Right{{ end }}">
+        <div class="timeline-img-header">
+          <h2>{{.title | markdownify | emojify}}</h2>
+        </div>
+        <div class="date">{{ (time .date).Format ($page.Params.date_format | default "January 2006") }}</div>
+        <p>{{.description | markdownify | emojify}}</p>
+        <a class="bnt-more" href="javascript:void(0)">More</a>
+      </div>
+    </div>
+
+    {{end}}
+    {{end}}
+
+    </div>
+  </section>
+
