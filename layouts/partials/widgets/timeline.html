@@ -16,9 +16,7 @@
   <section class="timeline">
     <div class="container">
 
-    {{ if $page.Params.timeline }}
-    {{ $exp_len := len $page.Params.timeline }}
-    {{ range $idx, $key := sort $page.Params.timeline ".date" "desc" }}
+    {{ range $idx, $key := $page.Params.timeline }}
 
     <div class="timeline-item">
       <div class="timeline-img"></div>
@@ -32,7 +30,6 @@
       </div>
     </div>
 
-    {{end}}
     {{end}}
 
     </div>
