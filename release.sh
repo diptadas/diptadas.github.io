@@ -18,3 +18,4 @@ git add -f --ignore-errors --all
 git commit -m 'Auto generated from '${HASH}
 git push -f origin master
 git checkout hugo
+git submodule update --init --recursive
