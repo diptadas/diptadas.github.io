@@ -67,7 +67,7 @@
   top: 30px;
   left: -15px;
   border-width: 10px 15px 10px 0;
-  border-color: transparent #f5f5f5 transparent transparent;
+  border-color: transparent #BDBDBD transparent transparent;
 }
 .timeline-item::after {
   content: '';
@@ -80,7 +80,7 @@
   width: 45%;
   padding: 10px 30px;
   border-radius: 4px;
-  background: #f5f5f5;
+  background: #BDBDBD;
   box-shadow: 0 20px 25px -15px rgba(0, 0, 0, 0.3);
 }
 .timeline-content::after {
@@ -92,7 +92,7 @@
   top: 30px;
   right: -15px;
   border-width: 10px 0 10px 15px;
-  border-color: transparent transparent transparent #f5f5f5;
+  border-color: transparent transparent transparent #BDBDBD;
 }
 
 .timeline-img {
