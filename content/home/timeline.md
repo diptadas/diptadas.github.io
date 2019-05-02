@@ -19,7 +19,7 @@ date_format = "January, 2006"
   title = "Left AppsCode"
   date = "2019-04-30"
   event_url = "https://appscode.com"
-  image = ""
+  image = "/images/end_appscode.jpg"
   description = "Stopped working for AppsCode."
 
 [[timeline]]
