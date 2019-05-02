@@ -23,13 +23,12 @@ date_format = "Jan 2006"
   company_url = "https://appscode.com"
   location = "Uttara, Dhaka, Bangladesh"
   date_start = "2017-04-12"
-  date_end = ""
+  date_end = "2019-04-30"
   description = """
   Responsibilities include:
   
-  * Research, Develop and Deploy open-source tools for [Kubernetes](https://kubernetes.io/) clusters.
+  * Developing open-source tools for [Kubernetes](https://kubernetes.io/) clusters.
   * Projects: [Voyager](https://github.com/appscode/voyager), [Stash](https://github.com/appscode/stash), [KubeCI](https://github.com/kube-ci/kubeci) 
-  * Deploying
   """
 
 [[experience]]

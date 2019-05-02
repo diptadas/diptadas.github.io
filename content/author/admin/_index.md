@@ -9,14 +9,14 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Software Engineer"
+role = "Former Software Engineer"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "AppsCode", url = "https://appscode.com/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests include cloud computing, machine learning and micro-service based software development."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "dipta670@gmail.com"
@@ -73,6 +73,6 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Completed B.Sc. in Computer Science and Engineering from Chittagong University of Engineering and Technology. Currently, working as a Software Engineer at AppsCode Inc. focusing on cloud technologies and container orchestration techniques.
+Completed B.Sc. in Computer Science and Engineering from Chittagong University of Engineering and Technology. Worked as a Software Engineer at AppsCode Inc. focusing on cloud technologies and container orchestration techniques.
 
 Open-source enthusiast and actively contributing to several [Kubernetes](https://kubernetes.io/) based popular open-source projects. Loves competitive programming - ranked as Divisional Champion of ACM ICPC Dhaka Regional 2014 and 2015.
