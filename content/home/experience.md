@@ -38,6 +38,11 @@ date_format = "Jan 2006"
   location = "Uttara, Dhaka, Bangladesh"
   date_start = "2016-01-01"
   date_end = "2016-01-31"
-  description = """Learned Git."""
+  description = """
+  Responsibilities include:
+
+  * Learning Git, Elasticsearch.
+  * Projects: [Automatic Email Verification](https://github.com/diptadas/java-projects/tree/master/verify-email)
+  """
 
 +++
