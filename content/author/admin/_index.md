@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Former Software Engineer"
+role = "Graduate Research Assistant"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "AppsCode", url = "https://appscode.com/" } ]
+organizations = [ { name = "Baylor University", url = "https://baylor.edu/" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include cloud computing, machine learning and micro-service based software development."
@@ -23,8 +23,8 @@ email = "dipta670@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "Cloud Computing",
   "Software Engineering",
+  "Cloud Computing",
   "Machine Learning",
   "Cryptography"
 ]
@@ -35,7 +35,11 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "BSc in Computer Science and Engineering"
+  course = "MSc in Computer Science (2019 - Present)"
+  institution = "Baylor University"
+
+[[education.courses]]
+  course = "BSc in Computer Science"
   institution = "Chittagong University of Engineering and Technology"
   year = 2017
 
@@ -72,6 +76,8 @@ user_groups = ["Researchers", "Visitors"]
 #   link = "files/cv.pdf"
 
 +++
+
+Studying M.Sc. in Computer Science at Baylor University and working as a Research Assistant at Cloud Innovation Lab. 
 
 Completed B.Sc. in Computer Science and Engineering from Chittagong University of Engineering and Technology. Worked as a Software Engineer at AppsCode Inc. focusing on cloud technologies and container orchestration techniques.
 
