@@ -49,5 +49,5 @@ subtitle = ""
 
 - Served as vice-president of CUET-COMPUTER-CLUB and organized different programming contests and conducted workshops on Competitive Programming.
 - Served as judge and problem-setter of several divisional programming contests.
-- Worked with [Dr. Mokammel Haque's] (https://scholar.google.com/citations?user=DqDct8wAAAAJ) research group on several projects based on cryptography.
+- Worked with [Dr. Mokammel Haque's](https://scholar.google.com/citations?user=DqDct8wAAAAJ) research group on several projects based on cryptography.
 - Contributed to several open-source projects including popular [Kubernetes](https://kubernetes.io/) project.
