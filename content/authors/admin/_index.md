@@ -38,18 +38,21 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:dipta670@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+- icon: github
+  icon_pack: fab
+  link: https://github.com/diptadas
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=WhgwUY8AAAAJ
+- icon: linkedin
+  icon_pack: fab
+  link: https://linkedin.com/in/diptadas
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/dipta670
 - icon: facebook
   icon_pack: fab
   link: https://facebook.com/dipta.das
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=WhgwUY8AAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/diptadas
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
