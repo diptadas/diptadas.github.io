@@ -49,7 +49,7 @@ subtitle = ""
 
 ## Lattice Based Cryptography
 
-- Undergraduate thesis on [BKZ Lattice Reduction](https://en.wikipedia.org/wiki/Lattice_reduction) Algorithm under [Dr. Mokammel Haque] (https://scholar.google.com/citations?user=DqDct8wAAAAJ).
+- Undergraduate thesis on [BKZ Lattice Reduction](https://en.wikipedia.org/wiki/Lattice_reduction) Algorithm under [Dr. Mokammel Haque](https://scholar.google.com/citations?user=DqDct8wAAAAJ).
 - Experiments on "Improving performance of Recursive BKZ using Dynamic Programming".
 - Experiments on "Improving reduction quality of FPLLL library using successive randomization".
 - Achieved place on Hall of Fame of [lattice-challenge](https://www.latticechallenge.org/svp-challenge/halloffame.php) site (best dimension: 94).
