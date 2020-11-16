@@ -1,0 +1,28 @@
+{{ $ := .root }}
+{{ $page := .page }}
+
+<!-- Skills widget -->
+
+<header>
+    <link rel="stylesheet" href="css/skills.css">
+</header>
+
+<section class="skills">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-4 section-heading">
+                <h1>Skills</h1>
+            </div>
+            <div class="col-12 col-lg-8">
+                {{ range $idx, $key := $page.Params.skills }}
+                <h3>
+                    {{ range $idx, $key := .items }}
+                    <code>{{. | markdownify | emojify}}</code>
+                    {{end}}
+                </h3>
+                <hr>
+                {{end}}
+            </div>
+        </div>
+    </div>
+</section>
