@@ -24,13 +24,13 @@
   weight = 40
 
 [[main]]
-  name = "Timeline"
-  url = "#timeline"
+  name = "Activities"
+  url = "#activities"
   weight = 50
 
 [[main]]
-  name = "Activities"
-  url = "#activities"
+  name = "Timeline"
+  url = "#timeline"
   weight = 60
 
 [[main]]
