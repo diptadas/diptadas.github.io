@@ -47,10 +47,16 @@ subtitle = ""
  css_class = ""
 +++
 
+## Microservice Code Analysis
+
+- Supervised by [Dr. Tomas Cerny](http://cs.baylor.edu/~cerny/) in Baylor [Cloudhubs](https://cloudhubs.ecs.baylor.edu/) lab.
+- Derive abstract syntax tree (AST) form bytecode and source of microservices.
+- Software architecture reconstruction by resolving inter-microservice REST communication.
+- Detect RBAC inconsistencies in microservice mesh.
+- Automated code smells identification for microservices.
+
 ## Lattice Based Cryptography
 
 - Undergraduate thesis on [BKZ Lattice Reduction](https://en.wikipedia.org/wiki/Lattice_reduction) Algorithm under [Dr. Mokammel Haque](https://scholar.google.com/citations?user=DqDct8wAAAAJ).
-- Experiments on "Improving performance of Recursive BKZ using Dynamic Programming".
-- Experiments on "Improving reduction quality of FPLLL library using successive randomization".
 - Achieved place on Hall of Fame of [lattice-challenge](https://www.latticechallenge.org/svp-challenge/halloffame.php) site (best dimension: 94).
 - Source code and experimental results are made open-source and posted in [Github](https://github.com/diptadas/bkz-algorithm).
