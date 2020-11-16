@@ -30,6 +30,10 @@ subtitle = ""
     tag = "Kubernetes"
   
   [[content.filter_button]]
+    name = "Code Analysis"
+    tag = "CodeAnalysis"
+  
+  [[content.filter_button]]
     name = "Java"
     tag = "Java"
 
