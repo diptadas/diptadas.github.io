@@ -16,6 +16,13 @@ date_format = "January, 2006"
 #   Add/remove as many `[[timeline]]` blocks below as you like.
 
 [[timeline]]
+  title = "Joined Baylor"
+  date = "2019-08-19"
+  event_url = "https://baylor.edu"
+  image = "/media/start_baylor.jpg"
+  description = "Enrolled graduate school with full tuition scholarship."
+
+[[timeline]]
   title = "Left AppsCode"
   date = "2019-04-30"
   event_url = "https://appscode.com"
