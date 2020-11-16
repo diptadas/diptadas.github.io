@@ -19,16 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Graduate Research Assistant"
-  company = "Cloud Innovation Lab"
-  company_url = "https://baylor.edu"
-  location = "Baylor University, Waco, Texas"
+  company = "Baylor Cloudhubs Lab"
+  company_url = "https://cloudhubs.ecs.baylor.edu/"
+  location = "Waco, Texas, USA"
   date_start = "2019-08-25"
-  description = """
-  Responsibilities include:
-  
-  * Research and develop tools for micro-services.
-  * Security analysis of micro-services.
-  * Projects: [CIL-RAD](https://baylor.edu)
+  description = """  
+  * Static code analysis of microservice bytecode and source code.
+  * RBAC security analysis and code smells detection for microservice mesh.
+  * Lead a small team to perform log analysis in collaboration with Red Hat, Czech Republic.
+  * Developed a virtual conference hosting platform  for ACM SAC 2020.
+  * Projects: [RAD](https://github.com/cloudhubs/rad), [RAD-Source](https://github.com/cloudhubs/rad-sorce), [RAD-Analysis](https://github.com/cloudhubs/rad-analysis), [ACM SAC 2020](https://github.com/cloudhubs/acmsac).
   """
 
 [[experience]]
@@ -39,9 +39,13 @@ date_format = "Jan 2006"
   date_start = "2017-04-12"
   date_end = "2019-04-30"
   description = """
-  Responsibilities include:
   
-  * Developing open-source tools for [Kubernetes](https://kubernetes.io/) clusters.
+  * Developed custom-resource (CRD) controllers for [Kubernetes](https://kubernetes.io/) clusters.
+  * Provisioning Kubernetes cluster in GCP, AWS, Azure, and DigitalOcean.
+  * Improved ingress controller for traffic routing and loadbalancing using [HAProxy](http://www.haproxy.org/).
+  * Extended [Restic](https://restic.net/) volume backup for Kubernetes workloads. 
+  * Developed a Kubernetes native CI/CD platform.
+  * Monitoring Kubernetes workloads using [Prometheus](https://prometheus.io/) and visualizing with [Grafana](https://grafana.com/).
   * Projects: [Voyager](https://github.com/appscode/voyager), [Stash](https://github.com/appscode/stash), [KubeCI](https://github.com/kube-ci/kubeci) 
   """
 
@@ -53,9 +57,8 @@ date_format = "Jan 2006"
   date_start = "2016-01-01"
   date_end = "2016-01-31"
   description = """
-  Responsibilities include:
 
-  * Learning Git, Elasticsearch.
+  * Learned Git, Elasticsearch, Maven, Gradle.
   * Projects: [Automatic Email Verification](https://github.com/diptadas/java-projects/tree/master/verify-email)
   """
 
