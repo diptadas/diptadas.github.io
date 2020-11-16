@@ -47,7 +47,30 @@ subtitle = ""
  css_class = ""
 +++
 
-- Served as vice-president of CUET-COMPUTER-CLUB and organized different programming contests and conducted workshops on Competitive Programming.
-- Served as judge and problem-setter of several divisional programming contests.
-- Worked with [Dr. Mokammel Haque's](https://scholar.google.com/citations?user=DqDct8wAAAAJ) research group on several projects based on cryptography.
-- Contributed to several open-source projects including popular [Kubernetes](https://kubernetes.io/) project.
+- Competitive Programming
+
+  - Divisional champion of ACM ICPC Dhaka Regional 2014 and 2015.
+  - Champion of USTC IUPC 2015.
+  - Divisional champion of RUET NCPC 2015.
+  - Sixth at SUB IUPC 2016.
+  - [Expert](http://codeforces.com/profile/diptadas) at Codeforces with maximum contest rating 1707.
+  - Contributed as a problem setter and judge in several programming contests.
+
+- Top Open Source Contributions
+
+  - [Kubernetes](https://kubernetes.io/)
+  - Restic
+  - helm/charts
+  - Azure SDK for GO
+  - Javassist
+  - go-sh
+
+- Leadership
+
+  - Worked as the lead developer of Voyager, Stash, KubeCI open-source projects.
+  - Lead a small team for log analysis project in collaboration with Red Hat.
+  - Served as vice-president of CUET COMPUTER CLUB.
+
+- Achieved several places on the Hall of Fame of [lattice-challenge](https://www.latticechallenge.org/svp-challenge/halloffame.php) site.
+- Runner-up in the [National Mobile Apps Development](http://www.nationalappsbd.com/) program conducted by Ministry of ICT.
+
