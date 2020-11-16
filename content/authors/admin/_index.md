@@ -72,7 +72,7 @@ highlight_name: false
 # - Visitors
 ---
 
-Studying M.Sc. in Computer Science at Baylor University and working as a Research Assistant at Cloud Innovation Lab. 
+Studying M.Sc. in Computer Science at Baylor University and working as a Research Assistant at Cloudhubs Lab. 
 
 Completed B.Sc. in Computer Science and Engineering from Chittagong University of Engineering and Technology. Worked as a Software Engineer at AppsCode Inc. focusing on cloud technologies and container orchestration techniques.
 
