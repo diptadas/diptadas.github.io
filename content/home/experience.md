@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   * Static code analysis of microservice bytecode and source code.
   * RBAC security analysis and code smells detection for microservice mesh.
   * Lead a small team to perform log analysis in collaboration with Red Hat, Czech Republic.
-  * Developed a virtual conference hosting platform  for ACM SAC 2020.
+  * Developed a virtual conference hosting platform for ACM SAC 2020.
   * Projects: [RAD](https://github.com/cloudhubs/rad), [RAD-Source](https://github.com/cloudhubs/rad-sorce), [RAD-Analysis](https://github.com/cloudhubs/rad-analysis), [ACM SAC 2020](https://github.com/cloudhubs/acmsac).
   """
 
