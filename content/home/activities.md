@@ -53,17 +53,17 @@ subtitle = ""
   - Champion of USTC IUPC 2015.
   - Divisional champion of RUET NCPC 2015.
   - Sixth at SUB IUPC 2016.
-  - [Expert](http://codeforces.com/profile/diptadas) at Codeforces with maximum contest rating 1707.
+  - [Expert](http://codeforces.com/profile/diptadas) at Codeforces with highest contest rating 1707.
   - Contributed as a problem setter and judge in several programming contests.
 
 - Top Open Source Contributions
 
   - [Kubernetes](https://kubernetes.io/)
-  - Restic
-  - helm/charts
-  - Azure SDK for GO
-  - Javassist
-  - go-sh
+  - [Restic](https://github.com/restic/restic)
+  - [helm/charts](https://github.com/helm/charts)
+  - [Azure SDK for GO](https://github.com/Azure/azure-sdk-for-go)
+  - [Javassist](https://github.com/jboss-javassist/javassist)
+  - [go-sh](https://github.com/codeskyblue/go-sh)
 
 - Leadership
 
