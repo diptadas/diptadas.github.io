@@ -58,5 +58,5 @@ subtitle = ""
 ## Lattice Based Cryptography
 
 - Undergraduate thesis on [BKZ Lattice Reduction](https://en.wikipedia.org/wiki/Lattice_reduction) Algorithm under [Dr. Mokammel Haque](https://scholar.google.com/citations?user=DqDct8wAAAAJ).
-- Achieved place on Hall of Fame of [lattice-challenge](https://www.latticechallenge.org/svp-challenge/halloffame.php) site (best dimension: 94).
+- Solved Shortest Vector Problem (SVP) up to dimension 94 on [lattice-challenge](https://www.latticechallenge.org/svp-challenge/halloffame.php) site.
 - Source code and experimental results are made open-source and posted in [Github](https://github.com/diptadas/bkz-algorithm).
