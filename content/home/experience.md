@@ -26,9 +26,21 @@ date_format = "Jan 2006"
   description = """  
   * Static code analysis of microservice bytecode and source code.
   * RBAC security analysis and code smells detection for microservice mesh.
-  * Lead a small team to perform log analysis in collaboration with Red Hat, Czech Republic.
   * Developed a virtual conference hosting platform for ACM SAC 2020.
   * Projects: [RAD](https://github.com/cloudhubs/rad), [RAD-Source](https://github.com/cloudhubs/rad-sorce), [RAD-Analysis](https://github.com/cloudhubs/rad-analysis), [ACM SAC 2020](https://github.com/cloudhubs/acmsac).
+  """
+
+[[experience]]
+  title = "Research Intern"
+  company = "Red Hat Research"
+  company_url = "https://cloudhubs.ecs.baylor.edu/"
+  location = "Brno, Czech Republic"
+  date_start = "2020-05-15"
+   date_end = "2020-08-15"
+  description = """  
+  * Led a small team of three undergraduate students to analyze source code and logs of the Red Hat Insights project to identify execution paths of error events.
+  * Automated the error debugging process by scraping code snippets from external Q/A forums like Stack Overflow and GitHub issues.
+  * Projects: [Log Errors](https://github.com/cloudhubs/log-errors).
   """
 
 [[experience]]
