@@ -1,0 +1,42 @@
+{{ $ := .root }}
+{{ $page := .page }}
+
+<!-- Timeline widget -->
+
+
+<header>
+  <link rel="stylesheet" href="css/timeline.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="js/timeline.js"></script>
+  <script src="https://cdn.jsdelivr.net/scrollreveal.js/3.3.1/scrollreveal.min.js"></script>
+
+  <div class="container text-center">
+    <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
+    <p>{{ with $page.Params.subtitle }}{{ . | markdownify }}{{ end }}</p>
+  </div>
+</header>
+
+<section class="timeline">
+  <div class="container">
+
+    {{ range $idx, $key := $page.Params.timeline }}
+
+    <div class="timeline-item">
+      <div class="timeline-img"></div>
+      <div class="timeline-content timeline-card js--fadeIn{{ if modBool $idx 2 }}Left{{ else }}Right{{ end }}">
+        <div class="timeline-img-header" {{ with .image }}
+          style="background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url({{.}}) center center no-repeat; background-size: cover;"
+          {{ end }}>
+          <h2>{{.title | markdownify | emojify}}</h2>
+        </div>
+        <div class="date">{{ (time .date).Format ($page.Params.date_format | default "January 2006") }}</div>
+        <p>{{.description | markdownify | emojify}}</p>
+        <a class="bnt-more" href="{{ with .image }}{{ . }}{{ else }}javascript:void(0){{ end }}"
+          target="_blank">More</a>
+      </div>
+    </div>
+
+    {{end}}
+
+  </div>
+</section>
