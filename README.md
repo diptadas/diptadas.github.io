@@ -33,17 +33,17 @@ $ hugo new site diptadas.github.io --force
 $ git submodule add https://github.com/ojroques/hugo-researcher.git themes/researcher
 ```
 
-- Copy and replace all files and folders from `themes/researcher/exampleSite` to the root folder
+- Copy all contents from `themes/researcher/exampleSite` to the root folder and edit as desired
 
-- Edit your details in `config.toml`,  `content/about.md`, and `content/contact.md` files
-
-- Run following command and check website locally at http://localhost:1313/
+- Run the following command and check the website locally at http://localhost:1313/
 
 ```
 $ hugo server
 ```
 
 - Create a `.github/workflows/gh-pages.yaml` file in the root directory and copy contents from [here](https://gohugo.io/hosting-and-deployment/hosting-on-github/).
+
+    - Enable Hugo extended version and `force_orphan`
 
 - Make a commit and push to Github
 
