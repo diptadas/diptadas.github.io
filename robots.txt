@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://diptadas.com/sitemap.xml
