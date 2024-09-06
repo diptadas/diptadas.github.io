@@ -14,12 +14,12 @@ title = "Skills"
   items = ["Java", "Spring Boot", "Go", "C++"]
 
 [[skills]]
-  items = ["Kubernetes", "Docker", "AWS", "GCP", "Azure"]
+  items = ["Kubernetes", "Docker", "AWS", "Spark"]
 
 [[skills]]
   items = ["gRpc", "HAProxy", "Prometheus", "Grafana"]
 
 [[skills]]
-  items = ["MySQL", "PostgreSQL", "MongoDB", "InfluxDB"]
+  items = ["MySQL", "PostgreSQL", "MongoDB", "DynamoDB"]
 
 +++
