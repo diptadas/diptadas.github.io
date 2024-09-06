@@ -6,15 +6,15 @@ title: Dipta Das
 superuser: true
 
 # Role/position
-role: Graduate Research Assistant
+role: Software Development Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Baylor University
-  url: "https://baylor.edu/"
+- name: Amazon
+  url: "https://amazon.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include cloud computing, machine learning and micro-service based software development.
+bio: Software Engineer with expertise in Big Data and Cloud Technologies.
 
 interests:
 - Software Engineering
@@ -72,8 +72,6 @@ highlight_name: false
 # - Visitors
 ---
 
-Studying M.Sc. in Computer Science at Baylor University and working as a Research Assistant at Cloudhubs Lab. 
+Born and raised in Chittagong, I developed my passion for computer science during my undergraduate studies at Chittagong University of Engineering and Technology (CUET), where I actively participated in several programming competitions such as ACM ICPC. After graduating from CUET in 2019, I worked two years at AppsCode on Kubernetes related cloud technologies and contributed in several open-source projects. This experience prompted me to pursue graduate studies at Baylor University, where I was awarded a fully funded scholarship for Fall 2019 under the guidance of Dr. Tomas Cerny. My research focused on microservices architecture, software security, and code analysis, leading to the publication of five journal papers and ten conference articles. I completed my M.Sc. from Baylor in 2021 with the Outstanding Graduate Student award.
 
-Completed B.Sc. in Computer Science and Engineering from Chittagong University of Engineering and Technology. Worked as a Software Engineer at AppsCode Inc. focusing on cloud technologies and container orchestration techniques.
-
-Open-source enthusiast and actively contributing to several [Kubernetes](https://kubernetes.io/) based popular open-source projects. Loves competitive programming - ranked as Divisional Champion of ACM ICPC Dhaka Regional 2014 and 2015.
+Since 2021, I have been working as a Software Development Engineer (L5) at Amazon, Tempe, Arizona, in the Customer Trust and Partner Support (CTPS) team. Here, I use my expertise in cloud computing, big data, and machine learning to enhance platform security and mitigate fraudulent activities.

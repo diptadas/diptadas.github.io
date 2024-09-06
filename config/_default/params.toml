@@ -89,11 +89,11 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "dipta670@gmail.com"
-phone = "+1 254 717 9120"
+phone = "+1 XXX XXX 9120"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "1825 S 3rd St", city = "Waco", region = "TX", postcode = "76706", country = "United States", country_code = "US"}
+address = {street = "Anonymous Street", city = "Chandler", region = "AZ", postcode = "85225", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
