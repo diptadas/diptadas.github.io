@@ -11,15 +11,15 @@ title = "Skills"
 #   Add/remove as many `[[skills]]` blocks below as you like.
 
 [[skills]]
-  items = ["Java", "Spring Boot", "Go", "C++"]
+  items = ["Java", "Spring Boot", "Go", "C++", "Python"]
 
 [[skills]]
-  items = ["Kubernetes", "Docker", "AWS", "GCP", "Azure"]
+  items = ["Kubernetes", "Docker", "AWS", "Spark"]
 
 [[skills]]
   items = ["gRpc", "HAProxy", "Prometheus", "Grafana"]
 
 [[skills]]
-  items = ["MySQL", "PostgreSQL", "MongoDB", "InfluxDB"]
+  items = ["MySQL", "PostgreSQL", "MongoDB", "DynamoDB"]
 
 +++

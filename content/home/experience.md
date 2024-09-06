@@ -18,11 +18,24 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Software Development Engineer (L5)"
+  company = "Amazon"
+  company_url = "https://amazon.com/"
+  company_logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/1200px-Amazon_logo.svg.png"
+  location = "Tempe, Arizona, USA"
+  date_start = "2021-09-27"
+  description = """  
+  * Apply Big Data and Machine Learning to mitigate fraudulent activities.
+  """
+
+[[experience]]
   title = "Graduate Research Assistant"
   company = "Baylor Cloudhubs Lab"
   company_url = "https://cloudhubs.ecs.baylor.edu/"
+  company_logo = "https://www.baylor.edu/images/bu/bu_stack_1c_outlined.png"
   location = "Waco, Texas, USA"
   date_start = "2019-08-25"
+  date_end = "2021-08-15"
   description = """  
   * Static code analysis of microservice bytecode and source code.
   * RBAC security analysis and code smells detection for microservice mesh.
@@ -34,9 +47,10 @@ date_format = "Jan 2006"
   title = "Research Intern"
   company = "Red Hat Research"
   company_url = "https://cloudhubs.ecs.baylor.edu/"
+  company_logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Red_Hat_logo.svg/1200px-Red_Hat_logo.svg.png"
   location = "Brno, Czech Republic"
   date_start = "2020-05-15"
-   date_end = "2020-08-15"
+  date_end = "2020-08-15"
   description = """  
   * Led a small team of three undergraduate students to analyze source code and logs of the Red Hat Insights project to identify execution paths of error events.
   * Automated the error debugging process by scraping code snippets from external Q/A forums like Stack Overflow and GitHub issues.
@@ -47,6 +61,7 @@ date_format = "Jan 2006"
   title = "Software Engineer"
   company = "AppsCode Inc."
   company_url = "https://appscode.com"
+  company_logo = "https://appscode.com/images/products/appscode/appscode.png"
   location = "Uttara, Dhaka, Bangladesh"
   date_start = "2017-04-12"
   date_end = "2019-04-30"
@@ -65,6 +80,7 @@ date_format = "Jan 2006"
   title = "Intern"
   company = "AppsCode Inc."
   company_url = "https://appscode.com"
+  company_logo = "https://appscode.com/images/products/appscode/appscode.png"
   location = "Uttara, Dhaka, Bangladesh"
   date_start = "2016-01-01"
   date_end = "2016-01-31"

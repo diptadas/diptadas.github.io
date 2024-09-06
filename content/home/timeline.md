@@ -16,6 +16,27 @@ date_format = "January, 2006"
 #   Add/remove as many `[[timeline]]` blocks below as you like.
 
 [[timeline]]
+  title = "Promoted"
+  date = "2023-12-01"
+  event_url = "https://amazon.com"
+  image = ""
+  description = "Promoted to L5 Software Development Engineer at Amazon."
+
+[[timeline]]
+  title = "Joined Amazon"
+  date = "2021-09-27"
+  event_url = "https://baylor.edu"
+  image = ""
+  description = "Joined Amazon as Software Development Engineer (L4)."
+
+[[timeline]]
+  title = "Graduated from Baylor"
+  date = "2021-08-15"
+  event_url = "https://baylor.edu"
+  image = "/media/end_baylor.png"
+  description = "Graduated from Baylor with Outstanding Graduate Student award."
+
+[[timeline]]
   title = "Joined Baylor"
   date = "2019-08-19"
   event_url = "https://baylor.edu"
