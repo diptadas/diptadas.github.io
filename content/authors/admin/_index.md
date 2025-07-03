@@ -72,8 +72,4 @@ highlight_name: false
 # - Visitors
 ---
 
-I grew up in Chittagong and earned my degree in Computer Science from Chittagong University of Engineering and Technology (CUET), where I actively participated in programming competitions like ACM ICPC. After graduating in 2019, I spent two years at AppsCode, working on Kubernetes-based cloud technologies and contributing to open-source projects.
-
-In Fall 2019, I received a fully funded scholarship to pursue my M.Sc. at Baylor University under the supervision of Dr. Tomas Cerny. My research focused on microservices architecture, software security, and code analysis, leading to the publication of five journal papers and ten conference articles. I graduated in 2021 with the Outstanding Graduate Student award.
-
-Since 2021, I’ve been working as a Software Development Engineer (L5) at Amazon in Tempe, Arizona, as part of the Customer Trust and Partner Support (CTPS) team. Here, I leverage my expertise in cloud computing, big data, and machine learning to enhance platform security and combat fraudulent activities.
+Dipta Das is a Software Engineer at Amazon working on platform security and fraud prevention using big data technologies and machine learning. He previously worked at AppsCode on Kubernetes-based cloud solutions and actively contributed to open-source projects. Dipta holds a Master’s degree in Computer Science from Baylor University, where his research on microservices architecture, software security, and code analysis led to multiple publications and academic honors. He completed his Bachelor’s degree at Chittagong University of Engineering and Technology with a focus on post-quantum cryptography and distinguished himself through participation in several prestigious programming competitions, including ACM ICPC.
