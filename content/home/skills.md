@@ -1,25 +1,21 @@
-+++
+---
 # Timeline widget.
-widget = "skills"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 25  # Order that this section will appear.
+widget: "skills"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless: true  # This file represents a page section.
+active: true  # Activate this widget? true/false
+weight: 25  # Order that this section will appear.
 
-title = "Skills"
+title: "Skills"
 
 # Skills.
-#   Add/remove as many `[[skills]]` blocks below as you like.
+#   Add/remove as many skills items below as you like.
 
-[[skills]]
-  items = ["Java", "Spring Boot", "Go", "C++", "Python"]
+skills:
+  - items: ["Java", "Spring Boot", "Go", "C++", "Python"]
 
-[[skills]]
-  items = ["Kubernetes", "Docker", "AWS", "Spark"]
+  - items: ["Kubernetes", "Docker", "AWS", "Spark"]
 
-[[skills]]
-  items = ["gRpc", "HAProxy", "Prometheus", "Grafana"]
+  - items: ["gRpc", "HAProxy", "Prometheus", "Grafana"]
 
-[[skills]]
-  items = ["MySQL", "PostgreSQL", "MongoDB", "DynamoDB"]
-
-+++
+  - items: ["MySQL", "PostgreSQL", "MongoDB", "DynamoDB"]
+---
