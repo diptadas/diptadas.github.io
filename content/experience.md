@@ -1,0 +1,73 @@
+---
+_build:
+  render: never
+
+block: experience
+id: experience
+content:
+  title: Experience
+  date_format: Jan 2006
+  items:
+    - title: "Software Development Engineer (L5)"
+      company: "Amazon"
+      company_url: "https://amazon.com/"
+      company_logo: "Amazon"
+      location: "Tempe, Arizona, USA"
+      date_start: "2021-09-27"
+      description: |
+        * Apply Big Data and Machine Learning to mitigate fraudulent activities.
+
+    - title: "Graduate Research Assistant"
+      company: "Baylor Cloudhubs Lab"
+      company_url: "https://cloudhubs.ecs.baylor.edu/"
+      company_logo: "Baylor"
+      location: "Waco, Texas, USA"
+      date_start: "2019-08-25"
+      date_end: "2021-08-15"
+      description: |
+        * Static code analysis of microservice bytecode and source code.
+        * RBAC security analysis and code smells detection for microservice mesh.
+        * Developed a virtual conference hosting platform for ACM SAC 2020.
+        * Projects: [RAD](https://github.com/cloudhubs/rad), [RAD-Source](https://github.com/cloudhubs/rad-sorce), [RAD-Analysis](https://github.com/cloudhubs/rad-analysis), [ACM SAC 2020](https://github.com/cloudhubs/acmsac).
+
+    - title: "Research Intern"
+      company: "Red Hat Research"
+      company_url: "https://cloudhubs.ecs.baylor.edu/"
+      company_logo: "RedHat"
+      location: "Brno, Czech Republic"
+      date_start: "2020-05-15"
+      date_end: "2020-08-15"
+      description: |
+        * Led a small team of three undergraduate students to analyze source code and logs of the Red Hat Insights project to identify execution paths of error events.
+        * Automated the error debugging process by scraping code snippets from external Q/A forums like Stack Overflow and GitHub issues.
+        * Projects: [Log Errors](https://github.com/cloudhubs/log-errors).
+
+    - title: "Software Engineer"
+      company: "AppsCode Inc."
+      company_url: "https://appscode.com"
+      company_logo: "AppsCode"
+      location: "Uttara, Dhaka, Bangladesh"
+      date_start: "2017-04-12"
+      date_end: "2019-04-30"
+      description: |
+        * Developed custom-resource (CRD) controllers for [Kubernetes](https://kubernetes.io/) clusters.
+        * Provisioning Kubernetes cluster in GCP, AWS, Azure, and DigitalOcean.
+        * Improved ingress controller for traffic routing and loadbalancing using [HAProxy](http://www.haproxy.org/).
+        * Extended [Restic](https://restic.net/) volume backup for Kubernetes workloads. 
+        * Developed a Kubernetes native CI/CD platform.
+        * Monitoring Kubernetes workloads using [Prometheus](https://prometheus.io/) and visualizing with [Grafana](https://grafana.com/).
+        * Projects: [Voyager](https://github.com/appscode/voyager), [Stash](https://github.com/appscode/stash), [KubeCI](https://github.com/kube-ci/kubeci)
+
+    - title: "Intern"
+      company: "AppsCode Inc."
+      company_url: "https://appscode.com"
+      company_logo: "AppsCode"
+      location: "Uttara, Dhaka, Bangladesh"
+      date_start: "2016-01-01"
+      date_end: "2016-01-31"
+      description: |
+        * Learned Git, Elasticsearch, Maven, Gradle.
+        * Projects: [Automatic Email Verification](https://github.com/diptadas/java-projects/tree/master/verify-email)
+design:
+  columns: '2'
+---

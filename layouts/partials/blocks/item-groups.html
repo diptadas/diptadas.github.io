@@ -1,0 +1,38 @@
+<style>
+    .item-groups code {
+        padding: 4px;
+        padding-right: 10px;
+        padding-left: 10px;
+        font-weight: 500;
+        color: #fff;
+        border: 0;
+        border-radius: 7px;
+        background-color: #0969c0c7
+    }
+</style>
+
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+
+{{ $title := $block.content.title | $page.RenderString }}
+{{ $text := $block.content.text | $page.RenderString }}
+
+<section class="item-groups">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-4 section-heading">
+                <h1>{{$title}}</h1>
+            </div>
+            <div class="col-12 col-lg-8">
+                {{ range $idx, $key := $block.content.groups }}
+                <h3>
+                    {{ range $idx, $key := .items }}
+                    <code>{{. | markdownify | emojify}}</code>
+                    {{end}}
+                </h3>
+                <hr>
+                {{end}}
+            </div>
+        </div>
+    </div>
+</section>
